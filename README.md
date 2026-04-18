@@ -1,1 +1,5 @@
-# python-practice
+# Python Practice
+Here are some exercises to practice programming logic, code modularization, and validations with Python.
+
+## 1 - Tips
+This algorithm will calculate the tip amount based on the bill total and the customer's desired tip percentage. Then, it will display the total payment amount.
