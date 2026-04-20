@@ -6,3 +6,6 @@ This algorithm will calculate the tip amount based on the bill total and the cus
 
 ## 2 - CPF
 This algorithm verify if your CPF is valid. The CPF must contain only 11 digits. 
+
+## 3 - Vowels
+This algorithm count the quantity of vowels in the entry text
