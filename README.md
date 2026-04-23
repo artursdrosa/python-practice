@@ -12,3 +12,6 @@ This algorithm count the quantity of vowels in the entry text
 
 ## 4 - Long Words
 This algorithm takes a text and separates words with more than 10 characters.
+
+## 5 - Safe Password
+This algorithm creates safe passwords completely random, always including at least one Upper Case, one Lower Case, one digit, and one special character.
