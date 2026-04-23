@@ -15,3 +15,6 @@ This algorithm takes a text and separates words with more than 10 characters.
 
 ## 5 - Safe Password
 This algorithm creates safe passwords completely random, always including at least one Upper Case, one Lower Case, one digit, and one special character.
+
+## 6 - Rock, Paper, Scissors
+This algorithm recreates the famous game of rock, paper, scissors. You choose one of the options, and the algorithm chooses one randomly.
