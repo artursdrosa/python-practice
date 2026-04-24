@@ -18,3 +18,6 @@ This algorithm creates safe passwords completely random, always including at lea
 
 ## 6 - Rock, Paper, Scissors
 This algorithm recreates the famous game of rock, paper, scissors. You choose one of the options, and the algorithm chooses one randomly.
+
+## 7 - Guess The Number
+This algorithm randomly selects a number, and the user needs to guess it. The number is between 1 and 100, and the algorithm indicates whether the guess is too high or too low.
