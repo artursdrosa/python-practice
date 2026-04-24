@@ -27,3 +27,6 @@ This algorithm works like a calculator, being able to do operations like additio
 
 ## 9 - Task Manager
 This algorithm manages your tasks. You can add tasks, list them, and remove tasks.
+
+## 10 - Bill Counter
+This algorithm determines the exact number of bills and coins needed to reach the entered value.
