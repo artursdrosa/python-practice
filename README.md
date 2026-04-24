@@ -21,3 +21,6 @@ This algorithm recreates the famous game of rock, paper, scissors. You choose on
 
 ## 7 - Guess The Number
 This algorithm randomly selects a number, and the user needs to guess it. The number is between 1 and 100, and the algorithm indicates whether the guess is too high or too low.
+
+## 8 - Calculator
+This algorithm works like a calculator, being able to do operations like addition, subtraction, multiplication and division.
