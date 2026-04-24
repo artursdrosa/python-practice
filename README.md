@@ -24,3 +24,6 @@ This algorithm randomly selects a number, and the user needs to guess it. The nu
 
 ## 8 - Calculator
 This algorithm works like a calculator, being able to do operations like addition, subtraction, multiplication and division.
+
+## 9 - Task Manager
+This algorithm manages your tasks. You can add tasks, list them, and remove tasks.
